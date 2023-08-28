@@ -1,6 +1,9 @@
 body {
   padding-top: 100px;
   margin: 0;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 }
 
 .team-container {
